@@ -1,4 +1,0 @@
-Install MinGW manager and then run this command
-
-
-"c:\MinGW\bin\mingw32-make.exe" all Makefile
